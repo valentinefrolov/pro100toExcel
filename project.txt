@@ -1,0 +1,90 @@
+«ад	2010	Ч	850	=	16	1	[frolov]\white
+¬ерхн€€ полка	358	Ч	850	Ч	16	1	[frolov]\white
+—идение	342	Ч	850	Ч	16	1	[frolov]\white
+Ќиз	342	   	834	Ч	16	1	[frolov]\white
+ћалый бок	444	Ч	342	Ч	16	1	[frolov]\white
+Ѕок	2010	=	374	=	16	1	[frolov]\white
+Ѕольша€ полка	334	   	830	Ч	16	1	[frolov]\white
+«аглушка	1774	Ч	164	Ч	16	1	[frolov]\white
+ƒверца	448	=	341	=	16	2	[frolov]\white
+ћаленька€ полка	342	Ч	164	   	16	5	[frolov]\white
+Ѕок	1774	Ч	160	Ч	16	2	[frolov]\white
+ѕолка	884	Ч	160	   	16	1	[frolov]\white
+√оризонтальна€ 1/2	434	Ч	150	   	16	7	[frolov]\white
+¬ертикальна€ нижн€€ больша€	320	Ч	150	   	16	1	[frolov]\white
+ќргалит	1780	   	916	   	4	1	[÷вета]\457
+¬ерх	160	=	916	Ч	16	1	[frolov]\white
+¬ертикальна€	274	Ч	150	   	16	6	[frolov]\white
+√оризонтальна€ больша€	884	Ч	150	   	16	5	[frolov]\white
+√оризонтальна€ 1/3	284	Ч	150	   	16	8	[frolov]\white
+¬ертикальна€ средн€€	216	Ч	150	   	16	1	[frolov]\white
+¬ертикальна€ мала€	160	Ч	150	   	16	2	[frolov]\white
+¬ерхн€€ вертикальна€	220	=	916	Ч	16	1	[frolov]\white
+ƒверца	1454	=	455	=	16	2	[frolov]\white
+—идение	320	=	912	=	16	1	[frolov]\white
+ѕолка	250	   	288	Ч	16	5	[frolov]\white
+ќргалит	1128	   	320	   	4	1	[÷вета]\457
+¬ерх	250	=	320	Ч	16	1	[frolov]\white
+Ѕок	1096	Ч	250	   	16	2	[frolov]\white
+Ќиз	250	=	320	Ч	16	1	[frolov]\white
+ƒверца	1124	=	318	=	16	1	[frolov]\white
+Ќижний бок	60	   	198	=	16	2	[frolov]\white
+Ќиз	250	=	950	Ч	16	1	[frolov]\white
+Ќижний фронт	60	=	950	=	16	2	[frolov]\white
+Ѕок	790	Ч	250	   	16	2	[frolov]\white
+	250	=	894	=	16	2	[frolov]\white
+	130	   	218	Ч	16	4	[frolov]\black
+	130	=	894	Ч	16	4	[frolov]\black
+	166	=	948	=	16	2	[frolov]\white
+ќргалит	822	   	950	   	4	1	[÷вета]\457
+¬ерх	250	=	950	Ч	16	1	[frolov]\white
+ƒверца	486	=	472	=	16	2	[frolov]\white
+ѕолка	240	   	918	Ч	16	3	[frolov]\white
+фасад	770	=	295	=	16	2	[frolov]\white
+низ	400	   	568	Ч	16	1	[frolov]\black
+бок	774	   	400	Ч	16	2	[frolov]\black
+верх	400	=	600	Ч	16	1	[frolov]\black
+ќргалит	780	   	600	   	4	2	[÷вета]\457
+полка	380	   	568	Ч	16	3	[frolov]\black
+полка	380	   	552	Ч	16	3	[frolov]\black
+бок	1220	   	400	Ч	16	2	[frolov]\black
+верх	400	=	584	Ч	16	1	[frolov]\black
+дверца	790	=	580	=	16	1	[frolov]\black
+ќргалит	796	   	584	   	4	1	[÷вета]\457
+низ	300	=	1130	Ч	16	2	[frolov]\black
+верх	300	=	1130	Ч	16	2	[frolov]\black
+бок	542	   	300	Ч	16	4	[frolov]\black
+ќргалит	574	   	1130	   	4	1	[÷вета]\457
+полка	280	   	1098	Ч	16	2	[frolov]\black
+ƒверь	566	=	1128	=	16	2	[frolov]\white
+ќргалит	574	   	1131	   	4	1	[÷вета]\457
+бок	1236	Ч	400	=	16	1	[frolov]\black
+бок	1220	   	300	=	16	1	[frolov]\black
+вертикальна€	254	   	280	=	16	2	[frolov]\black
+верх	300	Ч	1076	Ч	16	1	[frolov]\black
+полка	300	   	1060	Ч	16	1	[frolov]\black
+низ	300	   	1060	=	16	1	[frolov]\black
+ќргалит	505	   	1092	   	4	1	[÷вета]\457
+дверца	499	=	1072	=	16	1	[frolov]\black
+полка	280	   	1060	Ч	16	1	[frolov]\black
+вертикальна€	223	   	280	=	16	1	[frolov]\black
+полка	280	   	552	Ч	16	4	[frolov]\black
+бок	1220	   	300	Ч	16	2	[frolov]\black
+верх	300	=	584	Ч	16	1	[frolov]\black
+дверца	1230	=	580	=	16	1	[frolov]\black
+ќргалит	1236	   	584	   	4	1	[÷вета]\457
+низ	300	   	568	Ч	16	1	[frolov]\black
+бок	774	Ч	300	   	16	2	[frolov]\black
+верх	300	=	600	Ч	16	1	[frolov]\black
+‘асад	192	=	598	=	16	4	[frolov]\white
+лева€	140	   	268	Ч	16	4	[frolov]\black
+задн€€	140	=	544	Ч	16	4	[frolov]\black
+права€	140	   	268	Ч	16	4	[frolov]\black
+передн€€	140	=	544	Ч	16	4	[frolov]\black
+ќргалит	300	   	544	   	4	4	[÷вета]\457
+верх	300	=	1059	=	16	1	[frolov]\black
+бок	600	Ч	300	   	16	4	[frolov]\black
+полка	300	Ч	270	   	16	6	[frolov]\black
+перекладина	300	   	456	=	16	2	[frolov]\black
+‘асад	565	=	300	=	16	2	[frolov]\white
+ќргалит	566	   	302	   	4	2	[÷вета]\457
